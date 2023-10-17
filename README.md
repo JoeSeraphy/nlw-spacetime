@@ -1,34 +1,51 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Desktop
 
-## Getting Started
+<p align="center">
+    
+  <img alt="Cover" src="">
+</p>
 
-First, run the development server:
+# Mobile
+
+<p align="center">
+  <img alt="Cover" src="">
+</p>
+
+## 🧪 Technologies
+
+Este Projeto foi desenvolvido usando seguintes tecnolias:
+
+- [ReactJS](https://reactjs.org)
+- [Tailwind Css](https://tailwindcss.com)
+
+## 🚀 Getting started
+
+Clone o projeto pare ter acessos dos arquivos.
 
 ```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
+git clone https://github.com/JoeSeraphy/portfolio-react.git
+
+cd web
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Run this command to install the dependencies.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+```bash
+npm install
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+npm run dev
+```
 
-## Learn More
+## 🔖 Layout
 
-To learn more about Next.js, take a look at the following resources:
+Você pode visualiza os projetos pelos links abaixo:
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+- [Live Preview]()
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+## 📝 License
 
-## Deploy on Vercel
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+---
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+Made with 💜 by [JoeSeraphy]
