@@ -23,7 +23,7 @@ Este Projeto foi desenvolvido usando seguintes tecnolias:
 Clone o projeto pare ter acessos dos arquivos.
 
 ```bash
-git clone https://github.com/JoeSeraphy/portfolio-react.git
+git clone
 
 cd web
 ```
