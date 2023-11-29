@@ -5,6 +5,7 @@ import { Camera } from "lucide-react";
 import Cookie from "js-cookie";
 import { api } from "@/lib/api";
 import { useRouter } from "next/navigation";
+import axios from "axios";
 
 export default function NewMemoriesForm() {
   const router = useRouter();
@@ -16,7 +17,7 @@ export default function NewMemoriesForm() {
 
     const fileToUplaod = formData.get("coverUrl");
 
-    let coverUrl;
+    let coverUrl = "";
 
     if (fileToUplaod) {
       const uploadFormData = new FormData();
@@ -41,6 +42,7 @@ export default function NewMemoriesForm() {
         },
       }
     );
+
     router.push("/");
   }
 
