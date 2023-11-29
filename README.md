@@ -2,8 +2,8 @@
 
 <h1 aling="center">Nlw SpaceTime</h1
 
-<p>Nlw SpaceTime é uma aplicação de estudo criado pela instituição rockteseat a onde foram 5 aulas em uma semana durante o evento de aprendizando NLW</p>
-<p>O objetivo do Nlw é cirar uma aplicação Caixa do tempo onde o usuario irar postar as suas lembranças sendo ela imagens, e videos e tambem dando a descrição da lembraça do dia, aplicaçaõ foi cosntruida em reactJs especificamento usando o nextJS ára versão web, react Native Mobile e como anco de dados o prisma studio</p>
+<p>Nlw SpaceTime é uma aplicação de estudo criado pela instituição rockteseat, a onde foram 5 aulas em uma semana durante o evento de aprendizando NLW</p>
+<p>O objetivo do Nlw é criar uma aplicação Caixa do tempo onde o usuário irar postar as suas lembranças sendo elas imagens, videos e tambem dando a descrição da lembraça do dia, aplicação foi cosntruida em reactJs especificamente usando o nextJS para versão web, react Native Mobile e como banco de dados o prisma studio</p>
 
 <p>Essa é a Versão Web</p>
 
